@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @InsnDev
-- 🌱 My languages are Dart, Java, Kotlin and JavaScript
+- 🌱 My languages are Dart (Flutter), Java, Kotlin and JavaScript
 - 📚 I'm currently learning C
 - 📫 InsnDev#8551
